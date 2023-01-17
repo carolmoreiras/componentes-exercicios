@@ -72,3 +72,12 @@ footer {
 h4 {
   margin-left: 20px;
 }
+
+.box-usuario {
+  display: flex;
+}
+
+.box-usuario img {
+  width: 48px;
+  /* border-radius: 30%; */
+}
